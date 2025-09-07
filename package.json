@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "aws-amplify": "^6.15.5",
+    "latest": "^0.2.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
